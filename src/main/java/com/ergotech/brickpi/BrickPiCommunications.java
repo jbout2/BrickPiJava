@@ -207,7 +207,7 @@ public abstract class BrickPiCommunications {
      * RawSensor will be created, attached and returned.
      *
      * @param <T> the sensor associated with the port
-     * @param port the port associated with the requested sensor.
+     * @param sensorPort the port associated with the requested sensor.
      * @return a valid Sensor object. If no sensor is current associated with
      * the port a RawSensor will be returned.
      */
